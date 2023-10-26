@@ -1,8 +1,8 @@
-package com.airiea.ability.dao;
+package com.airiea.ability.repository;
 
 /**
  * Data Access Object (DAO) interface for tasks.
  * This provides methods to perform operations on tasks.
  */
-public interface AbilityDao {
+public interface AbilityRepository {
 }
